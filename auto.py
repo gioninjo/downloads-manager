@@ -9,6 +9,8 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
+# credits ---> https://github.com/tuomaskivioja/File-Downloads-Automator
+
 # ! FILL IN BELOW
 # ? folder to track e.g. Windows: "C:\\Users\\UserName\\Downloads"
 source_dir = ""
