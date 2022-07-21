@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=auto.py
+Comment=script for automatic downloads management
+Icon=gnome-info
+Exec=python /home/username/my_file_path/myfile.py
+Terminal=false
+Type=Application
+Categories=
+
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=0
